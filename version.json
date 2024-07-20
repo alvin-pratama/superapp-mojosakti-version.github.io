@@ -1,0 +1,13 @@
+{
+    "method": "GET",
+    "statusCode": 200,
+    "statusMessage": "Generate All MobileVersion Success",
+    "count": 1,
+    "result": [
+      {
+        "id": 1,
+        "number_release": "1.0.0",
+        "information": "Fix Bug"
+      }
+    ]
+  }
