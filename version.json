@@ -6,6 +6,13 @@
     "result": [
       {
         "id": 1,
+        "device": "android",
+        "number_release": "1.0.0",
+        "information": "Fix Bug"
+      },
+      {
+        "id": 2,
+        "device": "ios",
         "number_release": "1.0.0",
         "information": "Fix Bug"
       }
